@@ -1,2 +1,2 @@
 # hello-world
-Just a simple start
+Just a simple start plan
